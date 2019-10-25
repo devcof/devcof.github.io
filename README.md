@@ -1,5 +1,7 @@
 # devcof.github.io
 
-###### Thứ 7, 26/10/2019
+> Talk: **Coffee with @pnlinh**
 
-> Offline chat 18+
+> Time: Sa, 26/10/2019
+
+> Address: The coffee house XXX
